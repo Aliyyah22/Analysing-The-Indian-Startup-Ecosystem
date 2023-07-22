@@ -7,3 +7,6 @@ The analysis will adhere to the CRISP-DM (Cross Industry Standard Process for Da
 In the context of fostering the success of a start-up, the pillars of ideas, creativity, and effective execution stand as indispensable elements. Nevertheless, their presence alone may not guarantee flourishing outcomes. In the pursuit of significant growth, substantial impact, and financial prosperity, start-ups, and entrepreneurial ventures often require vital financial resources, commonly referred to as "funding." With this in mind, the present project aims to undertake an in-depth analysis of the funding received by start-up enterprises in India spanning the years 2018 to 2021.
 
 After exploring the dataset, questions will be derived for investigation and subsequent analysis. The questions will then be thoroughly answered, and each will be provided with a detailed conclusion, along with an explanation of how these conclusions can benefit a company intending to enter the ecosystem.
+
+## Here is an image capture of the deployed file on Power BI.
+![image](https://github.com/Aliyyah22/Analysing-The-Indian-Startup-Ecosystem/assets/103380162/acf6a6fe-e5a5-4064-9686-ad59a5e67922)
